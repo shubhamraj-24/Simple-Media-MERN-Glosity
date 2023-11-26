@@ -4,6 +4,7 @@ import Logo from "../../img/logo.png";
 import { logIn, signUp } from "../../actions/AuthActions.js";
 import { useDispatch, useSelector } from "react-redux";
 import { useNavigate } from "react-router-dom";
+import { ToastContainer, toast } from 'react-toastify';
 
 const Auth = () => {
   const initialState = {
@@ -159,6 +160,7 @@ const Auth = () => {
           </div>
         </form>
       </div>
+      <ToastContainer />
     </div>
   );
 };
