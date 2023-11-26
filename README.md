@@ -21,7 +21,9 @@ Step-By-Step instructions to run the app:-
 1. Clone the GitHub Repository
 Open your terminal (command prompt) and navigate to the directory where you want to clone the 
 repository.
+
    git clone https://github.com/your-username/your-mern-repo.git
+   
    Replace your-username with your GitHub username and your-mern-repo with the name of your MERN repository.
 3. Navigate to the Project Directory
    
