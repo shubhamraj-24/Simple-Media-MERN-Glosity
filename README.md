@@ -17,7 +17,7 @@ timestamp.
 - Users should be able to like and unlike posts.
 - Display the number of likes for each post.
 
-Step-By-Step instructions to run the app:-
+<strong>Step-By-Step instructions to run the app:-</strong>
 1. Clone the GitHub Repository
 Open your terminal (command prompt) and navigate to the directory where you want to clone the 
 repository.
