@@ -1,4 +1,4 @@
-# Simple-Media-MERN-Glosity
+# Social Media Feed MERN
 Objective:
 Created a basic social media feed application where users can register, log in,
 upload posts, like and unlike posts, and view a feed of posts from other users.
